@@ -1,4 +1,4 @@
-# ML-RNN-LSTM-GRU-
+# ML-RNN(LSTM,GRU)
 
 The Train Set overs 25MB; thus it is in the release section.
 
